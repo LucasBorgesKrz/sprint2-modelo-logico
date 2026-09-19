@@ -1,8 +1,10 @@
 # Sprint 2 — Modelo Lógico, SQL e Normalização
 
 **Projeto:** Radar de Dados — streaming de filmes e séries
+
 **SGBD:** PostgreSQL 14+
 **Sprint anterior (modelo conceitual):** [sprint1-radar-de-dados](https://github.com/LucasBorgesKrz/sprint1-radar-de-dados)
+
 **Equipe:** Lucas Borges Krziminski
 
 Este repositório transforma o modelo conceitual (MER) da Sprint 1 em um modelo lógico relacional, verifica as formas normais até a **3FN** e implementa o banco em SQL (DDL + DML).
